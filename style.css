@@ -10,8 +10,8 @@ body {
 }
 
 nav {
+  justify-content: center;
   display: flex;
-  justify-content: space-between;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.4);
   height: 150px;
   align-items: center;
@@ -21,19 +21,24 @@ nav .box {
 }
 nav .logo {
   display: flex;
-  margin-left: 100px;
+  justify-content: center;
+  align-items: center;
   font-size: 45;
-  background-color: red;
+  height: 100%;
+  width: 20%;
 }
 nav .logo p {
   font-size: 45px;
 }
 nav ul {
-  background-color: red;
+  display: flex;
+  align-items: center;
   margin-right: 45px;
   display: flex;
   justify-content: space-between;
-  gap: 35px;
+  height: 00%;
+  width: 70%;
+  background-color: red;
 }
 nav li {
   list-style: none;
@@ -44,8 +49,7 @@ nav li a {
   color: #738dab;
   text-decoration: none;
   padding: 3px;
-  margin-top: 5px;
-  font-size: 40px;
+  font-size: 30px;
   font-weight: 500;
 }
 

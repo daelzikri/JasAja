@@ -619,226 +619,66 @@
     </section>
     <!-- how to crate order akhir -->
 
-    <!-- our grates values -->
-    <section id="grates">
-      <div class="container px-5 py-24 mx-auto">
-        <div
-          class="flex flex-wrap w-full mb-20 flex-col items-center text-center"
-        >
-          <h1
-            class="sm:text-3xl text-2xl font-medium title-font mb-2 text-neutral-50"
-            data-aos="fade-down"
-            data-aos-duration="1500"
-          >
-            Our Grates Values
-          </h1>
-          <p
-            class="lg:w-1/2 w-full leading-relaxed text-neutral-50"
-            data-aos="fade-left"
-            data-aos-duration="1500"
-          >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi
-            distinctio harum vitae maxime aliquam soluta quas ut earum.
-            Consequuntur, eum!.
-          </p>
+   
+    <!-- Achievements / Prestasi & Sertifikasi -->
+<section id="achievements" class="bg-blue-600 py-20 text-white">
+  <div class="container px-5 mx-auto text-center">
+    <h2 class="text-3xl md:text-4xl font-bold mb-6" data-aos="fade-up" data-aos-duration="2000">Prestasi & Sertifikasi</h2>
+    <p class="text-lg md:text-xl max-w-2xl mx-auto mb-12" data-aos="fade-up" data-aos-duration="2000">
+      Kami bangga atas pencapaian yang telah diraih dan kepercayaan dari klien serta mitra besar.
+    </p>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+
+      <!-- Achievement 1 -->
+      <div data-aos="fade-up" data-aos-duration="2000" class="h-full flex flex-col justify-center">
+        <div class="transition-transform duration-300 hover:scale-105 h-full flex flex-col justify-center items-center text-center bg-white text-blue-600 rounded-lg p-6 shadow-lg">
+          <span class="text-4xl mb-4">😊</span>
+          <div class="text-3xl font-bold mb-2">500+</div>
+          <p class="text-lg font-semibold mb-2">Klien Puas</p>
+          <p class="text-sm text-gray-700">Layanan terbaik yang telah dinikmati oleh pelanggan setia.</p>
         </div>
-        <div class="flex flex-wrap -m-4">
-          <div class="xl:w-1/3 md:w-1/2 p-4">
-            <div
-              class="border border-neutral-50 p-6 rounded-lg"
-              data-aos="fade-down"
-              data-aos-duration="1500"
-            >
-              <div
-                class="w-10 h-10 inline-flex items-center justify-center rounded-full bg-blue-100 text-blue-500 mb-4"
-              >
-                <svg
-                  fill="none"
-                  stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  class="w-6 h-6"
-                  viewBox="0 0 24 24"
-                >
-                  <path d="M22 12h-4l-3 9L9 3l-3 9H2"></path>
-                </svg>
-              </div>
-              <h2 class="text-lg text-neutral-50 font-medium title-font mb-2">
-                nopal
-              </h2>
-              <p class="leading-relaxed text-base">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Corrupti, eligendi.
-              </p>
-            </div>
-          </div>
-          <div class="xl:w-1/3 md:w-1/2 p-4">
-            <div
-              class="border border-neutral-50 p-6 rounded-lg"
-              data-aos="flip-left"
-              data-aos-duration="1500"
-            >
-              <div
-                class="w-10 h-10 inline-flex items-center justify-center rounded-full bg-blue-100 text-blue-500 mb-4"
-              >
-                <svg
-                  fill="none"
-                  stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  class="w-6 h-6"
-                  viewBox="0 0 24 24"
-                >
-                  <circle cx="6" cy="6" r="3"></circle>
-                  <circle cx="6" cy="18" r="3"></circle>
-                  <path
-                    d="M20 4L8.12 15.88M14.47 14.48L20 20M8.12 8.12L12 12"
-                  ></path>
-                </svg>
-              </div>
-              <h2 class="text-lg text-neutral-50 font-medium title-font mb-2">
-                nopal
-              </h2>
-              <p class="leading-relaxed text-base">
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Quaerat, distinctio.
-              </p>
-            </div>
-          </div>
-          <div class="xl:w-1/3 md:w-1/2 p-4">
-            <div
-              class="border border-neutral-50 p-6 rounded-lg"
-              data-aos="flip-left"
-              data-aos-duration="1500"
-            >
-              <div
-                class="w-10 h-10 inline-flex items-center justify-center rounded-full bg-blue-100 text-blue-500 mb-4"
-              >
-                <svg
-                  fill="none"
-                  stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  class="w-6 h-6"
-                  viewBox="0 0 24 24"
-                >
-                  <path d="M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2"></path>
-                  <circle cx="12" cy="7" r="4"></circle>
-                </svg>
-              </div>
-              <h2 class="text-lg text-neutral-50 font-medium title-font mb-2">
-                dael
-              </h2>
-              <p class="leading-relaxed text-base">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam,
-                consequuntur!
-              </p>
-            </div>
-          </div>
-          <div class="xl:w-1/3 md:w-1/2 p-4">
-            <div
-              class="border border-neutral-50 p-6 rounded-lg"
-              data-aos="fade-down"
-              data-aos-duration="1500"
-            >
-              <div
-                class="w-10 h-10 inline-flex items-center justify-center rounded-full bg-blue-100 text-blue-500 mb-4"
-              >
-                <svg
-                  fill="none"
-                  stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  class="w-6 h-6"
-                  viewBox="0 0 24 24"
-                >
-                  <path
-                    d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1zM4 22v-7"
-                  ></path>
-                </svg>
-              </div>
-              <h2 class="text-lg text-neutral-50 font-medium title-font mb-2">
-                dael
-              </h2>
-              <p class="leading-relaxed text-base">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum,
-                laudantium.
-              </p>
-            </div>
-          </div>
-          <div class="xl:w-1/3 md:w-1/2 p-4">
-            <div
-              class="border border-neutral-50 p-6 rounded-lg"
-              data-aos="fade-down"
-              data-aos-duration="1500"
-            >
-              <div
-                class="w-10 h-10 inline-flex items-center justify-center rounded-full bg-blue-100 text-blue-500 mb-4"
-              >
-                <svg
-                  fill="none"
-                  stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  class="w-6 h-6"
-                  viewBox="0 0 24 24"
-                >
-                  <path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"></path>
-                </svg>
-              </div>
-              <h2 class="text-lg text-neutral-50 font-medium title-font mb-2">
-                erin
-              </h2>
-              <p class="leading-relaxed text-base">
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                Nostrum, consequatur!
-              </p>
-            </div>
-          </div>
-          <div class="xl:w-1/3 md:w-1/2 p-4">
-            <div
-              class="border border-neutral-50 p-6 rounded-lg"
-              data-aos="flip-left"
-              data-aos-duration="1500"
-            >
-              <div
-                class="w-10 h-10 inline-flex items-center justify-center rounded-full bg-neutral-100 text-blue-500 mb-4"
-              >
-                <svg
-                  fill="none"
-                  stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  class="w-6 h-6"
-                  viewBox="0 0 24 24"
-                >
-                  <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
-                </svg>
-              </div>
-              <h2 class="text-lg text-neutral-50 font-medium title-font mb-2">
-                erin
-              </h2>
-              <p class="leading-relaxed text-base">
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error,
-                laborum!
-              </p>
-            </div>
-          </div>
-        </div>
-        <button
-          class="flex mx-auto mt-16  bg-zinc-100 border-0 py-2 px-8 hover:bg-slate-400 rounded text-lg"
-        >
-          <a href="#home" class="text-decoration-none"> JasAja in Aja </a>
-        </button>
       </div>
-    </section>
-    <!-- our grates values akhir -->
+
+      <!-- Achievement 2 -->
+      <div data-aos="fade-up" data-aos-duration="2000" class="h-full flex flex-col justify-center">
+        <div class="transition-transform duration-300 hover:scale-105 h-full flex flex-col justify-center items-center text-center bg-white text-blue-600 rounded-lg p-6 shadow-lg">
+          <span class="text-4xl mb-4">📅</span>
+          <div class="text-3xl font-bold mb-2">10+</div>
+          <p class="text-lg font-semibold mb-2">Tahun Pengalaman</p>
+          <p class="text-sm text-gray-700">Lebih dari satu dekade berpengalaman dalam memberikan layanan jasa terbaik.</p>
+        </div>
+      </div>
+
+      <!-- Achievement 3 -->
+      <div data-aos="fade-up" data-aos-duration="2000" class="h-full flex flex-col justify-center">
+        <div class="transition-transform duration-300 hover:scale-105 h-full flex flex-col justify-center items-center text-center bg-white text-blue-600 rounded-lg p-6 shadow-lg">
+          <span class="text-4xl mb-4">⭐</span>
+          <p class="text-lg font-semibold mb-2">Sertifikasi Profesional</p>
+          <p class="text-sm text-gray-700">Tim kami tersertifikasi untuk memastikan layanan terbaik.</p>
+        </div>
+      </div>
+
+      <!-- Achievement 4 -->
+      <div data-aos="fade-up" data-aos-duration="2000" class="h-full flex flex-col justify-center">
+        <div class="transition-transform duration-300 hover:scale-105 h-full flex flex-col justify-center items-center text-center bg-white text-blue-600 rounded-lg p-6 shadow-lg">
+          <img src="img/unram.png" alt="Partner" class="h-10 md:h-12 mb-4 object-contain max-w-full" />
+          <p class="text-lg font-semibold mb-2">Mitra Besar</p>
+          <p class="text-sm text-gray-700">Telah dipercaya oleh universitas dan institusi besar dalam penyediaan layanan jasa.</p>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- CTA Button -->
+    <div data-aos="fade-up" data-aos-duration="2000" class="mt-12">
+      <a href="#home"
+         class="inline-block text-decoration-none bg-white text-blue-600 font-semibold px-8 py-3 rounded-full shadow hover:bg-gray-100 transition duration-200">
+        JasAja in Aja Yuk!
+      </a>
+    </div>
+  </div>
+</section>
 
     <!-- Footer Section -->
     <footer class="bg-white dark:bg-gray-900">
